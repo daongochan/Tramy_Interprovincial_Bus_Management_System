@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚌 Tra My Bus Station — Database Application
+# 🚌 Tra My Interprovincial Bus Station — Database Application
 
 **A relational database system for managing an intercity bus station**
 
