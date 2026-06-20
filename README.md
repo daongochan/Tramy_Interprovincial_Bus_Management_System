@@ -96,11 +96,13 @@ The system's business logic is modeled using UML to visualize the strict operati
 *Core operational flow: searching, holding seats, calculating prices, and invoking the Payment Gateway.*
 ![Booking Process](<diagrams/Business_Processes/011_Booking Process.png>)
 
+[`🖌️ Draw.io Source File (Contains all original diagrams)`](/source_diagrams.drawio)
+
 ---
 
 ## 🔎 Sample Queries
 
-The [`database/003_DQL_Queries.sql`](database/003_DQL_Queries.sql) file contains **10 analytical queries**. A few highlights demonstrating complex `JOINs` and `Aggregate Functions`. A few highlights:
+The [`DQL Queries`](database/003_DQL_Queries.sql) file contains **10 analytical queries**. A few highlights demonstrating complex `JOINs` and `Aggregate Functions`. A few highlights:
 
 ### Query 1 — Customer booking history
 ```sql
