@@ -52,7 +52,7 @@ The system supports four categories of users:
 
 ---
 
-## 🗄️ Database Architecture
+## Database Architecture
 
 The database utilizes a relational schema normalized to 3NF, consisting of **10 core tables** to ensure referential integrity across all transactions.
 
@@ -85,7 +85,7 @@ The database utilizes a relational schema normalized to 3NF, consisting of **10 
 
 ---
 
-## ⚙️ System Workflows
+## System Workflows
 
 The system's business logic is modeled using UML to visualize the strict operational flows.
 
@@ -100,7 +100,7 @@ The system's business logic is modeled using UML to visualize the strict operati
 
 ---
 
-## 🔎 Sample Queries
+## Sample Queries
 
 The [`DQL Queries`](database/003_DQL_Queries.sql) file contains **10 analytical queries**. A few highlights demonstrating complex `JOINs` and `Aggregate Functions`. A few highlights:
 
@@ -148,7 +148,7 @@ Full query list in [`database/003_DQL_queries.sql`](database/003_DQL_Queries.sql
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
